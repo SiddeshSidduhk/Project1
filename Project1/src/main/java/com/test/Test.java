@@ -6,6 +6,11 @@ public class Test {
 		// TODO Auto-generated method stub
 System.out.println("hellow world");
 System.out.println("India");
+time1();
+
+	}
+	public static String time1() {
+		return "time";
 	}
 
 }
